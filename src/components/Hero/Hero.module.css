@@ -1,4 +1,4 @@
-@import "../vars.css";
+@import "../../vars.css";
 
 .container {
     position: relative;
@@ -103,7 +103,7 @@
         flex-direction: column-reverse;
     }
 
-    .content{
+    .content {
         align-items: center;
     }
 }
